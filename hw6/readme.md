@@ -17,7 +17,7 @@ We've retrieved the data from [538's public data repositories](https://github.co
 * Otherwise, most of what you will implementing is already familiar, so we hope that you can consolidate your knowledge. 
 * If you're implementing the hacker challenge, you will also learn about force layouts. 
 
-[Here](assets/demo.mp4) is a demo of the functionality..
+[Here](assets/demo.mov) is a demo of the functionality..
 
 ## Implementation
 
